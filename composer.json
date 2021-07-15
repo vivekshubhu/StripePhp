@@ -1,0 +1,11 @@
+{
+    "name": "vivek/stripe",
+    "autoload": {
+        "psr-4": {
+            "Vivek\\Stripe\\": "src/"
+        }
+    },
+    "require": {
+        "stripe/stripe-php": "^7.88"
+    }
+}
